@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operagraecaetlat01luciuoft_0009.png"; bbox 0 0 1778 3194; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 30 3194">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 30 3194">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 30 3194; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 30 3194; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 24 1004 1524 1192">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 24 1004 1524 1216">
+     <span class='ocr_line' id='line_1_2' title="bbox 24 1004 1524 1192; baseline 0.01 -16"><span class='ocrx_word' id='word_1_2' title='bbox 24 1004 570 1185; x_wconf 32' lang='lat' dir='ltr'>NLUCIANI</span> <span class='ocrx_word' id='word_1_3' title='bbox 659 1127 1524 1192; x_wconf 87' lang='lat' dir='ltr'><strong>SAMOSATENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 18 1179 47 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 18 1179 47 1201">
+     <span class='ocr_line' id='line_1_3' title="bbox 18 1179 47 1201; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 18 1179 19 1182; x_wconf 79' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 41 1184 47 1201; x_wconf 54' lang='grc' dir='ltr'><em>ν</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 404 1360 1188 1437">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 404 1360 1188 1437">
+     <span class='ocr_line' id='line_1_4' title="bbox 404 1360 1188 1437; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 404 1360 1188 1437; x_wconf 86' lang='lat' dir='ltr'><strong>OPERA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
